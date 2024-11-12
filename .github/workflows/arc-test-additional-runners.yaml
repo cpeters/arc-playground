@@ -1,4 +1,4 @@
-name: Actions Runner Controller Demo - additional
+name: ARC Demo - additional
 on:
   workflow_dispatch:
 
